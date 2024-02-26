@@ -14,6 +14,6 @@
  
  ### Other Links
 - [LinkedIn](https://www.linkedin.com/in/CarlosMatecki/)
-- Web page: (https://www.carlosmatecki.com/)
+- [Personal Portfolio](https://www.carlosmatecki.com/)
 
 # Check out my projects! :arrow_down::arrow_down:
